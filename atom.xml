@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>我的日记</title>
   
-  
+  <subtitle>记录生活 记录心情</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-07T08:05:51.903Z</updated>
+  <updated>2019-10-07T14:52:24.116Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>John</name>
     
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2019/10/07/hello-world/"/>
-    <id>http://yoursite.com/2019/10/07/hello-world/</id>
-    <published>2019-10-07T08:05:51.903Z</published>
-    <updated>2019-10-07T08:05:51.903Z</updated>
+    <title>开始</title>
+    <link href="http://yoursite.com/2019/10/07/%E5%BC%80%E5%A7%8B/"/>
+    <id>http://yoursite.com/2019/10/07/开始/</id>
+    <published>2019-10-07T14:49:43.000Z</published>
+    <updated>2019-10-07T14:52:24.116Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>10月7日    周一    晴<br>​        今天是国庆假期结束的第一天，想好的早起还是睡到了10点，假期过完感觉反而更累，昨天晚上萌生了写日记的想法，考虑了几个博客网站网易轻博客、新浪博客、印象笔记等，最后还是决定用hexo在github上自己搭一个，选择了主题、注册了新的GitHub账号、配置了两个共有的ssh HexoBlog(私钥)，搞了一下午，去食堂吃了晚饭，回来做了高数作业，跑完步发现电视剧《在远方》今天没更新，有点小失望。</p><p>​        记日记才发现自己一天做不了多少事，忽然想到记日记是昨晚看电视剧《在远方》女主有写日记的习惯，于是我就想到了要不要自己也开始写日记，回顾一下每天做的事情，简单总结一下，想着自己如果坚持不下去，就简单的写一两句话。</p><p>​        每天正式开始启程，忙上3个月直到过年，我是这样想的，加油，新征程。</p><p>​        </p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+        &lt;p&gt;10月7日    周一    晴&lt;br&gt;​        今天是国庆假期结束的第一天，想好的早起还是睡到了10点，假期过完感觉反而更累，昨天晚上萌生了写日记的想法，考虑了几个博客网站网易轻博客、新浪博客、印象笔记等，最后还是决定用hexo在github上自己搭一个，选择了主
       
     
     </summary>
